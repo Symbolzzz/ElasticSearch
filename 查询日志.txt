@@ -1,0 +1,53 @@
+phraseSearch
+2021-12-14 09:47:02
+key:张伟平
+inWebSearch
+2021-12-14 23:07:51
+web:http://news.nankai.edu.cn/ywsd/index.shtml
+key:中国社会科学
+inWebSearch
+2021-12-14 23:08:27
+web:http://news.nankai.edu.cn/ywsd/system/count//0003000/000000000000/000/000/c0003000000000000000_000000532.shtml
+key:建设美丽乡村
+inWebSearch
+2021-12-14 23:08:57
+web:http://news.nankai.edu.cn/ywsd/system/
+key:建设美丽乡村
+inWebSearch
+2021-12-14 23:09:55
+web:http://news.nankai.edu.cn/ywsd/system/2021/12/06/
+key:南开大啊学
+inWebSearch
+2021-12-14 23:10:44
+web:http://news.nankai.edu.cn/ywsd/system/2021/12/06/
+key:南开大学
+docSearch
+2021-12-14 23:18:39
+docid:WlAEuX0BszfXlfpMBfFx
+phraseSearch
+2021-12-14 23:27:52
+key:张伟平
+wildcardSearch
+2021-12-14 23:36:24
+key:南开大学
+wildcardSearch
+2021-12-14 23:36:37
+key:杨*
+wildcardSearch
+2021-12-14 23:36:59
+key:杨??
+wildcardSearch
+2021-12-14 23:37:26
+key:南开大学*
+wildcardSearch
+2021-12-14 23:38:10
+key:杨庆山*
+wildcardSearch
+2021-12-14 23:38:23
+key:南开*
+wildcardSearch
+2021-12-14 23:38:40
+key:*南*
+wildcardSearch
+2021-12-14 23:38:54
+key:*张*
